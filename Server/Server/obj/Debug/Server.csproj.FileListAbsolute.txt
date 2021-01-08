@@ -1,0 +1,6 @@
+/Users/harveymannering/Projects/Server/Server/bin/Debug/Server.exe
+/Users/harveymannering/Projects/Server/Server/bin/Debug/Server.pdb
+/Users/harveymannering/Projects/Server/Server/obj/Debug/Server.csprojAssemblyReference.cache
+/Users/harveymannering/Projects/Server/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/harveymannering/Projects/Server/Server/obj/Debug/Server.exe
+/Users/harveymannering/Projects/Server/Server/obj/Debug/Server.pdb

@@ -1,0 +1,6 @@
+/Users/harveymannering/Projects/Client2/Client2/obj/Debug/Client2.csprojAssemblyReference.cache
+/Users/harveymannering/Projects/Client2/Client2/obj/Debug/Client2.csproj.CoreCompileInputs.cache
+/Users/harveymannering/Projects/Client2/Client2/bin/Debug/Client2.exe
+/Users/harveymannering/Projects/Client2/Client2/bin/Debug/Client2.pdb
+/Users/harveymannering/Projects/Client2/Client2/obj/Debug/Client2.exe
+/Users/harveymannering/Projects/Client2/Client2/obj/Debug/Client2.pdb
